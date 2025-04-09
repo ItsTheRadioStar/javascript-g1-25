@@ -1,7 +1,5 @@
 # Desarrollo web con Javascript I (G1-25)
 
-# Playlist de las sesiones
-
 [Listado de sesiones en YouTube](https://www.youtube.com/playlist?list=PLXDgesVAFKPbUHQ8yj3b0dFpuosl5H2P3)
 
 [Sesión 1](https://youtu.be/kuBUNUFCrTw)
