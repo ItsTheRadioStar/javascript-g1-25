@@ -6,7 +6,7 @@
 
 [Sesión 2 - Control de flujo](https://youtu.be/_1z3Cet1hLA)
 
-<!-- Sesión 3 -->
+[Sesión 3 - Funciones](https://youtu.be/B4vLDOi50gw)
 
 <!-- Sesión 4 -->
 
