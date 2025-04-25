@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script src="objeto.js"></script> -->
+    <!-- <script src="objetosClases.js"></script> -->
+    <script src="arreglos.js"></script>
+</head>
+<!-- <body onload="cargarPagina()"> -->
+<body>
+    <h1>Objetos</h1>
+    <div>
+        <h2 id="nombre_jugador"></h2>
+        <button onclick="jugador.atacar()">Atacar</button>
+        <label id="estado_jugador"></label>
+    </div>
+    <hr />
+    <div>
+        <h2 id="nombre_enemigo"></h2>
+        <button onclick="enemigo.atacar()">Atacar</button>
+        <label id="estado_enemigo"></label>
+    </div>
+
+    <hr/>
+    <h3>Asistencia</h3>
+    <button onclick="mostrarListaNombre()">Mostrar lista de asistencia</button>
+    <ul id="listaNombres"></ul>
+
+    <h3>Lista de números</h3>
+    <button onclick="mostrarListaNumeros()">Mostrar lista de asistencia</button>
+    <ul id="listaNumeros"></ul>
+</body>
+</html>
