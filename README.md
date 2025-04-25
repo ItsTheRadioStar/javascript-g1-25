@@ -8,7 +8,7 @@
 
 [Sesión 3 - Funciones](https://youtu.be/B4vLDOi50gw)
 
-<!-- Sesión 4 -->
+[Sesión 4 - Arreglos y objetos](https://youtu.be/L4l88U4Nlv0)
 
 <!-- Sesión 5 -->
 
