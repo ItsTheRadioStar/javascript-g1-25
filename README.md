@@ -10,7 +10,7 @@
 
 [Sesión 4 - Arreglos y objetos](https://youtu.be/L4l88U4Nlv0)
 
-<!-- Sesión 5 -->
+[Sesión 5 - Programación orientada a objetos](https://youtu.be/L4l88U4Nlv0)
 
 <!-- Sesión 6 -->
 
