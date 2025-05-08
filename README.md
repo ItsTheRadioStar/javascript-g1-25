@@ -12,7 +12,7 @@
 
 [Sesión 5 - Programación orientada a objetos](https://youtu.be/L4l88U4Nlv0)
 
-<!-- Sesión 6 -->
+[Sesión 6 - Programación funcional](https://youtu.be/qA0llo-eEEs)
 
 <!-- Sesión 7 -->
 
