@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="navegacion.css" rel="stylesheet" type="text/css" />
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="actividad.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="cargaInicial()">
+
+    <nav id="navegacion" onclick="activarNavegacion()">
+        <span data-section="tema">Tema</span>
+        <span data-section="actividad">Actividad</span>
+        <span data-section="blog">Blog</span>
+    </nav>
+
+    <main>
+        <section id="tema">
+            <h1>Manipulación del DOM</h1>
+
+            <div id="saludo" onclick="renombrarEtiqueta()">
+                <span>#saludo</span>
+                <div class="saludo contenedor-A">
+                    <span>.saludo</span>
+                    <span>.contenedor-A</span>
+                    <div class="saludo contenedor B">
+                        <span>.saludo</span>
+                        <span>.contenedor</span>
+                        <span>.B</span>
+                    </div>
+                </div>
+            </div>
+
+            <button type="button" onclick="ocultarSinClaseCss()">Ocultar etiquetas sin clases CSS</button>
+
+            <button onclick="saludar()">Saludar</button>
+        </section>
+
+        <section id="actividad">
+            <h2>Actividad</h2>
+        </section>
+
+        <section id="blog" class="active">
+            <h2>Blog</h2>
+            <div class="blog-content"></div>
+        </section>
+    </main>
+
+    <script src="actividad.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

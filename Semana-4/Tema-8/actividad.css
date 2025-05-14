@@ -1,0 +1,15 @@
+section#actividad {
+    padding: 1em;
+    background-color: aliceblue;
+    border-top: 5px solid #43d314;
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px rgb(168, 160, 160);
+}
+
+section#blog .blog-item {
+    padding: 1em;
+    box-shadow: 2px 2px 5px rgb(168, 160, 160);
+    max-width: 90%;
+    margin: 1em auto;
+    border: 1px solid gray;
+}
